@@ -1,0 +1,24 @@
+                          Thank You
+
+            I want to say a sort of preemptive thank
+            you to everyone who reads through these files
+            and pulls them off of github, but I also want
+            to make sure I give credit to where credit is
+            due.  This guide and just most of my own
+            personal knowledge of python comes from the
+            book 'Python Crash Course' by Eric Matthes.
+
+            Some examples and explanations are from this
+            book, as I wouldn't have been able to explain
+            certain topics myself, and I wouldn't have
+            been able to get as far in my own personal
+            understanding without this book.
+
+
+            So to Mr. Matthes, thank you for everything I
+            know and for the seed of passion for everything
+            I will eventually know.
+
+            Here's the link to buy his actual book if
+            you're interested, WHICH YOU SHOULD BE.
+            

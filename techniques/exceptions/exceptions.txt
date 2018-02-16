@@ -1,0 +1,40 @@
+                        # What are exceptions?
+
+'''
+If you've been programming for a bit
+you'll start to notice a little something
+called errors.
+
+Yes, they are frustrating especially
+because the rest of your program
+might be running just fine, but a single
+error crashes a program.
+
+This is where exceptions come in handy.
+
+Exceptions, make exceptions for errors
+in your program so that that block of
+code may fail silently, basically meaning
+the rest of your code will run even if
+there are errors.
+
+In order to use errors, however you must
+know which error you are expecting.
+
+This is an easy enough problem to solve
+since you're bound to become familiar
+with certain errors.
+
+Errors are handled by try-except
+blocks.
+
+Now I usually the part where you can
+expect some code to show how it works,
+but instead I want to progressively
+create a catalogue of errors and how
+to use exceptions in each and every
+file named off of the error.
+
+See the rest of this directory for
+examples.
+'''
